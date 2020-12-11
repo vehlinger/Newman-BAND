@@ -13,7 +13,7 @@ This program includes 5 files:
 autoband_test: run this file. 
 defines operating conditions, number of variables, initial guess, intializes variables
 
-autoband: calculates derivatives of each govering equation by each variable, at mesh points j-2, j-1,j,j+1,j+2
+autoband: calculates derivatives of each governing equation by each variable, at mesh points j-2, j-1,j,j+1,j+2
 
 band: solves for and returns change variables
 
